@@ -1,7 +1,9 @@
 # Fastest Realtime Multiple Faces Detection
+
 Fastest Realtime Multiple Faces Detection using the deep neural networks (dnn) module algorithm in OpenCV.
 
 # OpenCV Deep Neural Networks (dnn module)
+
 OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks such as TensorFlow, Torch, Darknet and Caffe.
 
 ## Walking in London Faces Detection
@@ -21,6 +23,7 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and both Python 2.7 and Python 3
 
 ## Requirement
+
 <ul>
 <li>Python 3.7</li>
 <li>OpenCV 4.2.0</li>
@@ -29,6 +32,7 @@ Imutils are a series of convenience functions to make basic image processing fun
 </ul>
 
 ## Quick start
+
 <ul>
   <li>Download official <a href="https://github.com/thegopieffect/computer_vision/blob/master/CAFFE_DNN/deploy.prototxt.txt" rel="nofollow">deploy.prototxt</a> and place it under a folder called data/model.</li>
   <li>Download <a href="https://github.com/thegopieffect/computer_vision/blob/master/CAFFE_DNN/res10_300x300_ssd_iter_140000.caffemodel">res10_300x300_ssd_iter_140000.caffemodel</a> and place it under a folder called data/weights.</li>
@@ -60,6 +64,7 @@ Imutils are a series of convenience functions to make basic image processing fun
 </table>
 
 ## Dependencies
+
 <ul>
 <li>opencv</li>
 <li>numpy</li>
@@ -67,21 +72,23 @@ Imutils are a series of convenience functions to make basic image processing fun
 </ul>
 
 ## Install dependencies
+
 <p><code>pip install opencv-python</code></p>
 <p><code>pip install numpy</code></p>
 <p><code>pip install imutils</code></p>
 
 ## How to use?
+
 <ol>
   <li>Clone the repository</li>
-  <p><code>git clone https://github.com/muhammadshiraz/Fastest-Realtime-Multiple-Faces-Detection.git</code></p>
+  <p><code>git clone https://github.com/BestHappy90619/RealTime-MultiFaces-Detection-OpenCV_DNN.git</code></p>
 </ol>
 <ol start="2">
   <li>Move to the directory</li>
-  <p><code>cd Fastest-Realtime-Multiple-Faces-Detection</code></p>
+  <p><code>cd RealTime-MultiFaces-Detection-OpenCV_DNN</code></p>
 </ol>
 <ol start="3">
-  <li>To view the Fastest Realtime Multiple Faces Detection</li>
+  <li>To view the RealTime MultiFaces Detection OpenCV DNN</li>
   <p><code>python face_detection_cap.py</code></p>
 </ol>
 
